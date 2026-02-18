@@ -1,6 +1,7 @@
 streamlit 
-request 
+requests 
 pandas
 os 
 json 
 matplotlib.pyplot
+

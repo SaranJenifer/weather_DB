@@ -1,0 +1,7 @@
+streamlit -> Dashboard
+request -> Fetch Weather Data From API
+pandas-> Organise and Clean Data 
+matplotlib/plotly -> Draw charts 
+os -> Interact with Operating system 
+json -> Acess json files [
+matplotlib.pyplot-> Creating graphs and visualisation in python 
